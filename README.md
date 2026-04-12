@@ -1,4 +1,3 @@
 # git-skill-test-study
 
-*Rana
-##TALHA
+Two brown fox jumped over

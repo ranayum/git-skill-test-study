@@ -11,3 +11,5 @@ ben de bunu yaziyorum 2
 simdi bunu yaziyorum 1
 
 simdi bu 3
+
+edit 4

@@ -13,3 +13,5 @@ simdi bunu yaziyorum 1
 simdi bu 3
 
 edit 4
+
+edit 6o

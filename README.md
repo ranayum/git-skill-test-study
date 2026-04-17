@@ -11,3 +11,5 @@ simdi bu 3
 
 edit 4
 edit 5
+
+edit 7

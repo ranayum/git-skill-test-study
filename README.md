@@ -9,3 +9,5 @@ gelemem dostumu sevemezsem dotuma dusmani yere seremzsem
 ben de bunu yaziyorum 2
 
 simdi bunu yaziyorum 1
+
+simdi bu 3

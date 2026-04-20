@@ -2,6 +2,7 @@
 
 Two brown fox jumped over
 Deneme 1 2
+edit 10
 
 gelemem dostumu sevemezsem dotuma dusmani yere seremzsem
 edit 7

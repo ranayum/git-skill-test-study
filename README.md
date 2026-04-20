@@ -5,9 +5,9 @@ Deneme 1 2
 
 gelemem dostumu sevemezsem dotuma dusmani yere seremzsem
 edit 7
-
+edit8
 ben de bunu yaziyorum 2
-
+edit 9
 simdi bunu yaziyorum 1
 
 simdi bu 3
